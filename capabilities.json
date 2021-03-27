@@ -60,31 +60,31 @@
                         "enumeration": [
                             {
                                 "value": "0",
-                                "displayName": "Sunday"
+                                "displayName": "Domingo"
                             },
                             {
                                 "value": "1",
-                                "displayName": "Monday"
+                                "displayName": "Lunes"
                             },
                             {
                                 "value": "2",
-                                "displayName": "Tuesday"
+                                "displayName": "Martes"
                             },
                             {
                                 "value": "3",
-                                "displayName": "Wednesday"
+                                "displayName": "Miércoles"
                             },
                             {
                                 "value": "4",
-                                "displayName": "Thursday"
+                                "displayName": "Jueves"
                             },
                             {
                                 "value": "5",
-                                "displayName": "Friday"
+                                "displayName": "Viernes"
                             },
                             {
                                 "value": "6",
-                                "displayName": "Saturday"
+                                "displayName": "Sábado"
                             }
                         ]
                     }
